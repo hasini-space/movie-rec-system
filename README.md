@@ -2,6 +2,10 @@
 
 A Python-based movie recommendation system that helps users discover new movies based on their preferences and viewing history.
 
+## 🎬 Live Demo
+
+Try the live application here: [Movie Recommendation System Demo](https://k8kv2shmtsmvgr5e6zbbqx.streamlit.app/)
+
 ## Features
 
 - **Personalized Recommendations**: Generates tailored movie suggestions based on user preferences
